@@ -1,4 +1,4 @@
 # toDoAppJS
 Приложение на JS
 
-Demo - https://omarovfrontend.github.io/toDoAppJS/
+Demo - https://shaomdev.github.io/toDoAppJS/
